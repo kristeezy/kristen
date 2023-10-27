@@ -1,0 +1,16 @@
+2023-10-21 12:45:44.742 [info] Extension host with pid 199 started
+2023-10-21 12:45:44.760 [info] Lock '/home/kristen/.vscode-server/data/User/workspaceStorage/bbde00a9be568a4a37a91deff7245fa0/vscode.lock': Lock acquired.
+2023-10-21 12:45:44.934 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-21 12:45:44.998 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-21 12:45:44.999 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-21 12:45:45.211 [info] Eager extensions activated
+2023-10-21 12:45:45.212 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-21 12:45:45.212 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-21 12:45:50.878 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-21 12:46:10.689 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-10-21 12:46:10.930 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-10-21 12:46:11.604 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-10-21 12:58:51.175 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-10-21 13:27:35.530 [info] Extension host terminating: received terminate message from renderer
+2023-10-21 13:27:35.531 [info] Lock '/home/kristen/.vscode-server/data/User/workspaceStorage/bbde00a9be568a4a37a91deff7245fa0/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-10-21 13:27:35.564 [info] Extension host with pid 199 exiting with code 0

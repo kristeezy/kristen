@@ -1,0 +1,16 @@
+2023-10-27 10:27:57.692 [info] Experiment 'pythonaacf' is active
+2023-10-27 10:27:57.693 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-10-27 10:27:57.693 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-10-27 10:27:57.693 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-10-27 10:27:57.693 [info] Experiment 'pythonTestAdaptercf' is active
+2023-10-27 10:27:57.694 [info] Test server listening.
+2023-10-27 10:27:57.695 [info] Python interpreter path: ./venv/bin/python
+2023-10-27 10:27:58.212 [info] > . ./venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/printEnvVariables.py
+2023-10-27 10:27:58.212 [info] shell: bash
+2023-10-27 10:27:58.287 [info] > python ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/printEnvVariables.py
+2023-10-27 10:27:58.288 [info] shell: bash
+2023-10-27 10:27:59.068 [info] Starting Pylance language server.
+2023-10-27 10:32:38.153 [info] Discover tests for workspace name: kristen - uri: /home/kristen/venv/flask-boggle/boggle.py
+2023-10-27 10:32:54.841 [info] Discover tests for workspace name: kristen - uri: /home/kristen/venv/flask-boggle/app.py
+2023-10-27 10:41:26.984 [info] Discover tests for workspace name: kristen - uri: /home/kristen/venv/flask-boggle/test.py
+2023-10-27 10:43:05.860 [info] Discover tests for workspace name: kristen - uri: /home/kristen

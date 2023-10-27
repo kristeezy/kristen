@@ -1,0 +1,36 @@
+2023-10-21 12:46:10.902 [info] Experiment 'pythonaacf' is active
+2023-10-21 12:46:10.902 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-10-21 12:46:10.902 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-10-21 12:46:10.902 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-10-21 12:46:10.902 [info] Experiment 'pythonTestAdaptercf' is active
+2023-10-21 12:46:11.168 [info] Test server listening.
+2023-10-21 12:46:11.187 [info] > python -c "import sys;print(sys.executable)"
+2023-10-21 12:46:11.193 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-21 12:46:11.193 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-21 12:46:11.193 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-21 12:46:11.193 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-21 12:46:11.193 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-21 12:46:11.193 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-21 12:46:11.217 [error] [Error: Command failed: python -c "import sys;print(sys.executable)"
+/bin/sh: 1: python: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:420:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'python -c "import sys;print(sys.executable)"'
+}
+2023-10-21 12:46:12.459 [info] Starting Pylance language server.
+2023-10-21 12:58:19.070 [info] > ./venv/bin/python -I ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-21 12:58:28.053 [info] Discover tests for workspace name: kristen - uri: /home/kristen
+2023-10-21 12:58:28.053 [info] Python interpreter path: ./venv/bin/python
+2023-10-21 12:58:28.109 [info] > python ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/printEnvVariables.py
+2023-10-21 12:58:28.109 [info] shell: bash
+2023-10-21 13:00:35.065 [info] Discover tests for workspace name: kristen - uri: /home/kristen/app.py
+2023-10-21 13:02:51.573 [info] > ./venv/bin/python -I ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-21 13:09:58.888 [info] > ./venv/bin/python -I ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py

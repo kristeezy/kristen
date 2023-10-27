@@ -1,0 +1,15 @@
+2023-10-24 16:26:52.355 [info] Experiment 'pythonaacf' is active
+2023-10-24 16:26:52.355 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-10-24 16:26:52.355 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-10-24 16:26:52.355 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-10-24 16:26:52.355 [info] Experiment 'pythonTestAdaptercf' is active
+2023-10-24 16:26:52.355 [info] Test server listening.
+2023-10-24 16:26:52.355 [info] Python interpreter path: ./venv/bin/python
+2023-10-24 16:26:52.382 [info] > ./venv/bin/python -I ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-24 16:26:53.033 [info] > python ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/printEnvVariables.py
+2023-10-24 16:26:53.033 [info] shell: bash
+2023-10-24 16:26:53.973 [info] Starting Pylance language server.
+2023-10-24 16:34:05.243 [info] > ./venv/bin/python -I ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-24 16:39:46.366 [info] > ./venv/bin/python -I ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-24 16:40:44.843 [info] Discover tests for workspace name: kristen - uri: /home/kristen/app.py
+2023-10-24 16:50:10.133 [info] Discover tests for workspace name: kristen - uri: /home/kristen/venv/app.py

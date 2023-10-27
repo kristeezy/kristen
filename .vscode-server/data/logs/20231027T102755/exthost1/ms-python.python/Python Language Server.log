@@ -1,0 +1,13 @@
+2023-10-27 10:27:59.054 [info] [Info  - 10:27:59 AM] (190) Pylance language server 2023.10.40 (pyright 088ebaa5) starting
+2023-10-27 10:27:59.054 [info] [Info  - 10:27:59 AM] (190) Server root directory: /home/kristen/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40/dist
+2023-10-27 10:27:59.055 [info] [Info  - 10:27:59 AM] (190) Starting service instance "kristen"
+2023-10-27 10:27:59.098 [info] [Info  - 10:27:59 AM] (190) Setting pythonPath for service "kristen": "/home/kristen/venv/bin/python"
+2023-10-27 10:27:59.099 [info] [Info  - 10:27:59 AM] (190) Setting environmentName for service "kristen": "3.10.12 (venv venv)"
+2023-10-27 10:27:59.120 [info] [Info  - 10:27:59 AM] (190) Assuming Python version 3.10
+2023-10-27 10:27:59.151 [info] [Info  - 10:27:59 AM] (190) Auto-excluding /home/kristen/venv
+2023-10-27 10:27:59.151 [info] [Info  - 10:27:59 AM] (190) No source files found.
+2023-10-27 10:42:20.743 [info] [Info  - 10:42:20 AM] (190) Setting pythonPath for service "kristen": "/home/kristen/venv/bin/python"
+2023-10-27 10:42:20.743 [info] [Info  - 10:42:20 AM] (190) Setting environmentName for service "kristen": "3.10.12 (venv venv)"
+2023-10-27 10:42:20.754 [info] [Info  - 10:42:20 AM] (190) Assuming Python version 3.10
+2023-10-27 10:42:20.780 [info] [Info  - 10:42:20 AM] (190) Auto-excluding /home/kristen/venv
+2023-10-27 10:42:20.781 [info] [Info  - 10:42:20 AM] (190) No source files found.

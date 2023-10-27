@@ -1,0 +1,17 @@
+2023-10-21 12:45:45.305 [info] Log level: Info
+2023-10-21 12:45:45.305 [info] Validating found git in: "git"
+2023-10-21 12:45:45.305 [info] Using git "2.34.1" from "git"
+2023-10-21 12:45:45.305 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-21 12:45:45.305 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-21 12:45:45.305 [info] > git rev-parse --show-toplevel [33ms]
+2023-10-21 12:45:45.305 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-21 12:45:50.891 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-21 12:45:50.891 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-21 12:46:06.661 [warning] Failed to get repository realpath for: "/home/kristen/.vscode-server/extensions/.d2e234ef-6113-490e-a317-c898df1ac4a7/pythonFiles/lib/python/debugpy/_vendored/pydevd/_pydevd_frame_eval/". Error: ENOENT: no such file or directory, realpath '/home/kristen/.vscode-server/extensions/.d2e234ef-6113-490e-a317-c898df1ac4a7/pythonFiles/lib/python/debugpy/_vendored/pydevd/_pydevd_frame_eval/'
+2023-10-21 12:46:06.666 [warning] Failed to get repository realpath for: "/home/kristen/.vscode-server/extensions/.d2e234ef-6113-490e-a317-c898df1ac4a7/pythonFiles/lib/python/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/". Error: ENOENT: no such file or directory, realpath '/home/kristen/.vscode-server/extensions/.d2e234ef-6113-490e-a317-c898df1ac4a7/pythonFiles/lib/python/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/'
+2023-10-21 12:46:10.605 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-21 12:46:10.605 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-21 12:46:10.627 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-21 12:46:10.627 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-21 12:57:36.161 [info] > git rev-parse --show-toplevel [11ms]
+2023-10-21 12:57:36.161 [info] fatal: not a git repository (or any of the parent directories): .git

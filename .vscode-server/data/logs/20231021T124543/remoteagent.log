@@ -1,0 +1,27 @@
+2023-10-21 12:45:43.813 [info] 
+
+
+
+
+2023-10-21 12:45:43.813 [info] Extension host agent started.
+2023-10-21 12:45:43.824 [info] Started initializing default profile extensions in extensions installation folder. file:///home/kristen/.vscode-server/extensions
+2023-10-21 12:45:43.833 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/kristen/.vscode-server/extensions
+2023-10-21 12:45:44.040 [info] [127.0.0.1][64b88d83][ManagementConnection] New connection established.
+2023-10-21 12:45:44.313 [info] [127.0.0.1][ab1b2cc8][ExtensionHostConnection] New connection established.
+2023-10-21 12:45:44.328 [info] [127.0.0.1][ab1b2cc8][ExtensionHostConnection] <199> Launched Extension Host Process.
+2023-10-21 12:46:01.994 [info] Getting Manifest... ms-python.python
+2023-10-21 12:46:02.153 [info] Installing extension: ms-python.python
+2023-10-21 12:46:03.035 [info] Getting Manifest... ms-python.vscode-pylance
+2023-10-21 12:46:03.166 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-10-21 12:46:04.352 [warning] Extension signature verification failed with error 'ENOENT': ms-python.python
+2023-10-21 12:46:06.098 [info] Extracted extension to file:///home/kristen/.vscode-server/extensions/ms-python.python-2023.18.0: ms-python.python
+2023-10-21 12:46:06.117 [info] Renamed to /home/kristen/.vscode-server/extensions/ms-python.python-2023.18.0
+2023-10-21 12:46:06.122 [info] Extracting extension completed. ms-python.python
+2023-10-21 12:46:07.192 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2023-10-21 12:46:10.430 [info] Extracted extension to file:///home/kristen/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40: ms-python.vscode-pylance
+2023-10-21 12:46:10.446 [info] Renamed to /home/kristen/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40
+2023-10-21 12:46:10.449 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-10-21 12:46:10.454 [info] Extension installed successfully: ms-python.python
+2023-10-21 12:46:10.454 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-10-21 13:27:35.531 [info] [127.0.0.1][64b88d83][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-21 13:27:35.581 [info] [127.0.0.1][ab1b2cc8][ExtensionHostConnection] <199> Extension Host Process exited with code: 0, signal: null.

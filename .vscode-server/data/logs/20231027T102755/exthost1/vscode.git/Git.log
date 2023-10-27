@@ -1,0 +1,102 @@
+2023-10-27 10:27:58.332 [info] Log level: Info
+2023-10-27 10:27:58.332 [info] Validating found git in: "git"
+2023-10-27 10:27:58.332 [info] Using git "2.34.1" from "git"
+2023-10-27 10:27:58.332 [info] > git rev-parse --show-toplevel [23ms]
+2023-10-27 10:27:58.332 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-27 10:27:58.332 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-27 10:27:58.332 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-27 10:27:58.337 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-27 10:27:58.337 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-27 10:27:58.341 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-27 10:27:58.341 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-27 10:27:58.346 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-27 10:27:58.346 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-27 10:27:58.353 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-27 10:27:58.353 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-27 10:29:16.942 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-27 10:29:16.942 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-27 10:29:19.898 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-27 10:29:19.898 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-27 10:31:37.372 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-27 10:31:37.372 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-27 10:32:20.588 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-27 10:32:20.588 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-27 10:32:46.428 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-27 10:32:46.429 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-27 10:33:24.165 [info] > git rev-parse --show-toplevel [21ms]
+2023-10-27 10:33:24.165 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-27 10:35:03.785 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-27 10:35:03.785 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-27 10:40:56.485 [info] > git rev-parse --show-toplevel [95ms]
+2023-10-27 10:40:56.485 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-27 10:41:16.192 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-27 10:41:16.192 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-27 10:42:19.993 [info] > git init -b main [8ms]
+2023-10-27 10:42:20.628 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-27 10:42:20.632 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2023-10-27 10:42:20.638 [info] Open repository: /home/kristen
+2023-10-27 10:42:20.645 [info] No remotes found in the git config file.
+2023-10-27 10:42:20.646 [info] > git config --get commit.template [3ms]
+2023-10-27 10:42:20.646 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-10-27 10:42:20.718 [info] > git status -z -uall [68ms] (cancelled)
+2023-10-27 10:42:20.972 [info] > git show --textconv :venv/flask-boggle/test.py [4ms]
+2023-10-27 10:42:20.973 [info] > git ls-files --stage -- /home/kristen/venv/flask-boggle/test.py [1ms]
+2023-10-27 10:42:21.194 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-27 10:42:48.149 [info] > git check-ignore -v -z --stdin [0ms]
+2023-10-27 10:44:42.745 [info] > git remote add origin https://github.com/kristeezy/kristen.git [2ms]
+2023-10-27 10:44:42.752 [info] > git config --get commit.template [3ms]
+2023-10-27 10:44:42.752 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-10-27 10:44:42.796 [info] > git status -z -uall [41ms] (cancelled)
+2023-10-27 10:44:42.891 [info] > git config --get commit.template [1ms]
+2023-10-27 10:44:42.896 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-10-27 10:44:43.562 [info] > git status -z -uall [662ms] (cancelled)
+2023-10-27 10:44:44.578 [info] > git ls-files --stage -- /home/kristen/venv/flask-boggle/test.py [0ms]
+2023-10-27 10:44:44.588 [info] > git show --textconv :venv/flask-boggle/test.py [1ms]
+2023-10-27 10:44:46.129 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-27 10:44:49.794 [info] > git push -u origin main [670ms]
+2023-10-27 10:44:49.794 [info] error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/kristeezy/kristen.git'
+2023-10-27 10:44:49.830 [info] > git config --get commit.template [2ms]
+2023-10-27 10:44:49.839 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-10-27 10:44:49.959 [info] > git status -z -uall [114ms] (cancelled)
+2023-10-27 10:45:00.980 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-27 10:45:04.082 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-27 10:45:58.657 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-27 10:46:01.759 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-27 10:46:05.584 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-27 10:46:07.540 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-27 10:46:08.648 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-27 10:48:23.012 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-27 10:56:09.417 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-27 10:56:11.559 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-27 10:56:34.124 [info] > git show --textconv :prob-divide-conquer/find-rotation-count.js [5ms]
+2023-10-27 10:56:34.125 [info] > git ls-files --stage -- /home/kristen/prob-divide-conquer/find-rotation-count.js [1ms]
+2023-10-27 10:56:55.260 [info] > git show --textconv :prob-divide-conquer/count-zeroes.js [4ms]
+2023-10-27 10:56:55.261 [info] > git ls-files --stage -- /home/kristen/prob-divide-conquer/count-zeroes.js [2ms]
+2023-10-27 10:57:39.926 [info] > git check-ignore -v -z --stdin [0ms]
+2023-10-27 10:57:47.804 [info] > git check-ignore -v -z --stdin [0ms]
+2023-10-27 10:57:49.976 [info] > git show --textconv :prob-divide-conquer-solution/count-zeroes.js [5ms]
+2023-10-27 10:57:49.978 [info] > git ls-files --stage -- /home/kristen/prob-divide-conquer-solution/count-zeroes.js [2ms]
+2023-10-27 11:02:05.174 [info] > git show --textconv :venv/app.py [6ms]
+2023-10-27 11:02:05.175 [info] > git ls-files --stage -- /home/kristen/venv/app.py [2ms]
+2023-10-27 11:02:28.387 [info] > git add -A -- . [7560ms]
+2023-10-27 11:02:28.387 [info] warning: adding embedded git repository: venv
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> venv
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached venv
+hint: 
+hint: See "git help submodule" for more information.
+2023-10-27 11:02:29.043 [info] > git show --textconv :.git/COMMIT_EDITMSG [7ms]
+2023-10-27 11:02:29.044 [info] > git ls-files --stage -- /home/kristen/.git/COMMIT_EDITMSG [2ms]
+2023-10-27 11:02:29.371 [info] > git check-ignore -v -z --stdin [3ms]
+2023-10-27 11:02:29.894 [info] > git ls-files --stage -- /home/kristen/.git/COMMIT_EDITMSG [2ms]
+2023-10-27 11:02:29.903 [info] > git show --textconv :.git/COMMIT_EDITMSG [2ms]
+2023-10-27 11:02:58.126 [info] > git check-ignore -v -z --stdin [3ms]
