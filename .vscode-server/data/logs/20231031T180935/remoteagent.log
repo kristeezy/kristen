@@ -1,0 +1,10 @@
+2023-10-31 18:09:35.871 [info] 
+
+
+
+
+2023-10-31 18:09:35.883 [info] Extension host agent started.
+2023-10-31 18:09:35.936 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/kristen/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40
+2023-10-31 18:09:36.033 [info] [127.0.0.1][1325e133][ManagementConnection] New connection established.
+2023-10-31 18:09:36.126 [info] [127.0.0.1][350b1d7a][ExtensionHostConnection] New connection established.
+2023-10-31 18:09:36.196 [info] [127.0.0.1][350b1d7a][ExtensionHostConnection] <109> Launched Extension Host Process.

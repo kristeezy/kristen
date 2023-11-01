@@ -54,3 +54,22 @@ pip3 install flask
 flask run
 export FLASK_ENV=development
 flask run --debug
+cd venv
+source bin/activate
+git init
+git add flask-boggle
+git status
+git commit -m "final commit"
+git config user.email "kristen.ramaila@gmail.com"
+git config --global user.email "kristen.ramaila@gmail.com"
+git config --global user.name "kristeezy"
+git commit -m "final commit"
+git status
+git commit add origin "https://github.com/kristeezy/main"
+git push origin master
+git commit origin main
+git remote -v
+git remote add origin https://github.com/kristeezy/flask-boggle.git
+git push origin main
+git push
+git push --set-upstream origin master
